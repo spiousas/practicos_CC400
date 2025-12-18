@@ -8,13 +8,10 @@ Below you will find all the practical assignments for the CC400 course.
 
 ### Available Assignments
 
-*Assignments will be added throughout the course.*
-
-<!-- Example structure for future assignments:
 - [Assignment 1: Introduction to Experimental Design](assignment-01.qmd)
-- [Assignment 2: Research Design](assignment-02.qmd)
-- [Assignment 3: Data Analysis](assignment-03.qmd)
--->
+- [Assignment 2: Research Design Methods](assignment-02.qmd)
+
+*More assignments will be added throughout the course.*
 
 ## Submission Guidelines
 
