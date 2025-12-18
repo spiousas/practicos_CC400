@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CC400 - Experimental and Quasiexperimental Design"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: assignments/index.qmd
+        text: Assignments
+    right:
+      - icon: github
+        href: https://github.com/spiousas/practicos_CC400
+  page-footer:
+    center: "CC400 Course Materials"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

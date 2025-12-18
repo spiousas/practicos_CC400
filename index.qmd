@@ -1,0 +1,27 @@
+---
+title: "Experimental and Quasiexperimental Design (CC400)"
+---
+
+## Welcome
+
+Welcome to the course website for **CC400 - Experimental and Quasiexperimental Design**.
+
+This site contains all the practical assignments and materials for the course.
+
+## Course Assignments
+
+You can find all the course assignments in the [Assignments](assignments/index.qmd) section.
+
+## About the Course
+
+This course covers experimental and quasiexperimental design methods, including:
+
+- Research design fundamentals
+- Experimental design principles
+- Quasiexperimental approaches
+- Data analysis and interpretation
+- Practical applications
+
+## Getting Started
+
+Navigate to the [Assignments](assignments/index.qmd) page to access the practical exercises and coursework.
