@@ -1,22 +1,21 @@
 ---
-title: "Course Assignments"
+title: "Trabajos prácticos del curso"
 ---
 
-## Practical Assignments
+## Trabajos prácticos del curso
 
-Below you will find all the practical assignments for the CC400 course.
+Abajo encontrarás todas las tareas prácticas para el curso CC400.
 
-### Available Assignments
+- [Trabajo práctico 1: bla bla](assignment-01.qmd)
+- [Trabajo práctico 2: bla bla](assignment-02.qmd)
 
-- [Assignment 1: Introduction to Experimental Design](assignment-01.qmd)
-- [Assignment 2: Research Design Methods](assignment-02.qmd)
 
-*More assignments will be added throughout the course.*
+*Más tareas se irán agregando a medida que avance el curso.*
 
-## Submission Guidelines
+## Instrucciones de entrega
 
-Please follow the instructions provided in each assignment for submission details.
+Las tareas deben ser entregadas a través de la plataforma designada antes de la fecha límite indicada en cada tarea.
 
-## Resources
+## Recursos adicionales
 
-Additional resources and materials will be provided as needed throughout the course.
+[Libro de la materia](assignments/index.qmd)

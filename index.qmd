@@ -1,27 +1,27 @@
 ---
-title: "Experimental and Quasiexperimental Design (CC400)"
+title: "Diseños Experimentales y Cuasiexperimentales (CC400)"
 ---
 
-## Welcome
+## Bienvenidos
 
-Welcome to the course website for **CC400 - Experimental and Quasiexperimental Design**.
+Bienvenidos al sitio web de **CC400 - Diseños Experimentales y Cuasiexperimentales**.
 
-This site contains all the practical assignments and materials for the course.
+Este sitio contiene todas las tareas prácticas y materiales del curso. Para el libro de la materia, visiten el siguiente enlace:
 
-## Course Assignments
+## Tareas del curso
 
-You can find all the course assignments in the [Assignments](assignments/index.qmd) section.
+YoPuedes encontrar todas las tareas del curso en la sección de [tareas](assignments/index.qmd) section.
 
-## About the Course
+## Sobre el Curso
 
-This course covers experimental and quasiexperimental design methods, including:
+Este curso cubre métodos de diseño experimental y cuasiexperimental, incluyendo:
 
-- Research design fundamentals
-- Experimental design principles
-- Quasiexperimental approaches
-- Data analysis and interpretation
-- Practical applications
+- Fundamentos del diseño de investigación
+- Principios del diseño experimental
+- Enfoques cuasiexperimentales
+- Análisis e interpretación de datos
+- Aplicaciones prácticas
 
-## Getting Started
+## Primeros Pasos
 
-Navigate to the [Assignments](assignments/index.qmd) page to access the practical exercises and coursework.
+Pueden ir a la página de [Tareas](assignments/index.qmd) para acceder a los ejercicios prácticos y al [Libro de la materia](assignments/index.qmd) para consultar el material de estudio.
