@@ -1,0 +1,22 @@
+---
+title: "Course Assignments"
+---
+
+## Practical Assignments
+
+Below you will find all the practical assignments for the CC400 course.
+
+### Available Assignments
+
+- [Assignment 1: Introduction to Experimental Design](assignment-01.qmd)
+- [Assignment 2: Research Design Methods](assignment-02.qmd)
+
+*More assignments will be added throughout the course.*
+
+## Submission Guidelines
+
+Please follow the instructions provided in each assignment for submission details.
+
+## Resources
+
+Additional resources and materials will be provided as needed throughout the course.
