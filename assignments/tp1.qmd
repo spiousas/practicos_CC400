@@ -1,0 +1,42 @@
+---
+title: "Trabajo Prácticos parte 1"
+---
+
+## Overview
+
+La idea de este trabajo es que sea una base de datos que los alumnos utilicen durante la mayor parte de la primera parte de la cursada (hasta diseños de clusters masomenos). Este trabajo se puede dividir en múltiples clases y tps mas chicos
+
+
+## Objectives
+
+La idea de este trabajo es que sea una base de datos que los alumnos utilicen durante la mayor parte de la primera parte de la cursada (hasta diseños de clusters masomenos). Este trabajo se puede dividir en múltiples clases y tps mas chicos
+
+Se divide en dos partes 
+
+
+## Regresión lineal y DAGs
+    Se le entrega al alumno una base de datos con múltiples variables (no todas útiles para el modelo) y el DAG del experimento. Se le va a pedir a los alumnos que analicen el DAG y definan cuáles son las variables que se tienen que controlar dentro del modelo. Posteriormente van a tener que realizar el modelo (que sería hacer una regresión lineal con las variables que decidieron utilizar) y explicar los resultados (P-Valor, R2 etc…)
+
+    Se quiere evaluar la relación causal entre la variable dependiente ____ y la variable independiente  ____. Para ello, tras realizar una investigación se obtuvo la siguiente base de datos (link a base). El problema es que la base contiene variables que no resultan relevantes para el estudio. Para resolver ese problema se establecieron las relaciones entre todas las variables y con ello se realizó el siguiente DAG: (DAG)
+
+    Analizar el DAG e identificar a las variables cofounders y mediadores
+     - ¿Cuántos caminos de causalidad abiertos identifica en este DAG? Grafíquelos
+     - Identificar qué variables se deben incluir para evaluar la hipótesis decausalidad que se plantea. Justifique la decisión de cuál de ellas incluir y por qué. 
+        - Limpiar las variables relevantes (Puede ser un Tp entero antes de este)
+        - Generar una variable que consideres que relevante y da una breve justificación de cómo está compuesta y porque la elegiste (no más de 4 renglones)(En un Tp separado pedirles que lo hagan)
+
+    Realizar una regresión lineal utilizando las variables seleccionadas en el punto anterior
+        - Explicar los resultados. ¿Es significativa X [P-Valor]? El modelo en sí, ¿es bueno [R2]?, entre qué valores puede estar el beta de X [IC]
+        - Escriba un texto breve interpretando el modelo y los efectos de las variables incluidas. Si tiene que hacer algun calculo extra puede hacerlo
+        - Realizar el mismo modelo pero agregando su variable creada en el punto __. ¿Cúal es mejor? También puede agregar variables no utilizadas pero que considere relevantes. Escribalo, corralo e interprételo
+
+
+
+
+## Potential Outcomes
+ Presentarles la misma base de datos nuevamente o una nueva que incluya los potential outcomes verdaderos y otros resultados estén sesgados de alguna forma
+        -Calcular el ATE datos reales
+        -Estimar el ATE datos sesgados, ¿Es igual al otro?, de no serlo, analizar porqué podría estar pasando. Considerar las variables que utilizaste en el modelo y los gráficos que pueden llegar a ayudarte
+
+
+[Back to Assignments](index.qmd)
