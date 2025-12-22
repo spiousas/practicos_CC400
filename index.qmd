@@ -10,7 +10,7 @@ Este sitio contiene todas las tareas prácticas y materiales del curso. Para el 
 
 ## Tareas del curso
 
-YoPuedes encontrar todas las tareas del curso en la sección de [tareas](assignments/index.qmd) section.
+Podés encontrar todas las tareas del curso en la sección de [tareas](assignments/index.qmd) section.
 
 ## Sobre el Curso
 

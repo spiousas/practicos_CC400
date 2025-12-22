@@ -6,9 +6,7 @@ title: "Trabajos prácticos del curso"
 
 Abajo encontrarás todas las tareas prácticas para el curso CC400.
 
-- [Trabajo práctico 1: bla bla](assignment-01.qmd)
-- [Trabajo práctico 2: bla bla](assignment-02.qmd)
-
+- [Trabajo práctico 1: bla bla](tp1.qmd)
 
 *Más tareas se irán agregando a medida que avance el curso.*
 

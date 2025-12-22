@@ -39,7 +39,7 @@
     "href": "assignments/index.html",
     "title": "Trabajos prácticos del curso",
     "section": "",
-    "text": "Abajo encontrarás todas las tareas prácticas para el curso CC400.\n\nTrabajo práctico 1: bla bla\nTrabajo práctico 2: bla bla\n\nMás tareas se irán agregando a medida que avance el curso."
+    "text": "Abajo encontrarás todas las tareas prácticas para el curso CC400.\n\nTrabajo práctico 1: bla bla\n\nMás tareas se irán agregando a medida que avance el curso."
   },
   {
     "objectID": "assignments/index.html#practical-assignments",
@@ -172,7 +172,7 @@
     "href": "index.html#tareas-del-curso",
     "title": "Diseños Experimentales y Cuasiexperimentales (CC400)",
     "section": "Tareas del curso",
-    "text": "Tareas del curso\nYoPuedes encontrar todas las tareas del curso en la sección de tareas section."
+    "text": "Tareas del curso\nPodés encontrar todas las tareas del curso en la sección de tareas section."
   },
   {
     "objectID": "index.html#sobre-el-curso",
@@ -193,7 +193,7 @@
     "href": "assignments/index.html#trabajos-prácticos-del-curso",
     "title": "Trabajos prácticos del curso",
     "section": "",
-    "text": "Abajo encontrarás todas las tareas prácticas para el curso CC400.\n\nTrabajo práctico 1: bla bla\nTrabajo práctico 2: bla bla\n\nMás tareas se irán agregando a medida que avance el curso."
+    "text": "Abajo encontrarás todas las tareas prácticas para el curso CC400.\n\nTrabajo práctico 1: bla bla\n\nMás tareas se irán agregando a medida que avance el curso."
   },
   {
     "objectID": "assignments/index.html#instrucciones-de-entrega",
@@ -208,5 +208,40 @@
     "title": "Trabajos prácticos del curso",
     "section": "Recursos adicionales",
     "text": "Recursos adicionales\nLibro de la materia"
+  },
+  {
+    "objectID": "assignments/tp1.html",
+    "href": "assignments/tp1.html",
+    "title": "Trabajo Prácticos parte 1",
+    "section": "",
+    "text": "La idea de este trabajo es que sea una base de datos que los alumnos utilicen durante la mayor parte de la primera parte de la cursada (hasta diseños de clusters masomenos). Este trabajo se puede dividir en múltiples clases y tps mas chicos"
+  },
+  {
+    "objectID": "assignments/tp1.html#overview",
+    "href": "assignments/tp1.html#overview",
+    "title": "Trabajo Prácticos parte 1",
+    "section": "",
+    "text": "La idea de este trabajo es que sea una base de datos que los alumnos utilicen durante la mayor parte de la primera parte de la cursada (hasta diseños de clusters masomenos). Este trabajo se puede dividir en múltiples clases y tps mas chicos"
+  },
+  {
+    "objectID": "assignments/tp1.html#objectives",
+    "href": "assignments/tp1.html#objectives",
+    "title": "Trabajo Prácticos parte 1",
+    "section": "Objectives",
+    "text": "Objectives\nLa idea de este trabajo es que sea una base de datos que los alumnos utilicen durante la mayor parte de la primera parte de la cursada (hasta diseños de clusters masomenos). Este trabajo se puede dividir en múltiples clases y tps mas chicos\nSe divide en dos partes"
+  },
+  {
+    "objectID": "assignments/tp1.html#regresión-lineal-y-dags",
+    "href": "assignments/tp1.html#regresión-lineal-y-dags",
+    "title": "Trabajo Prácticos parte 1",
+    "section": "Regresión lineal y DAGs",
+    "text": "Regresión lineal y DAGs\nSe le entrega al alumno una base de datos con múltiples variables (no todas útiles para el modelo) y el DAG del experimento. Se le va a pedir a los alumnos que analicen el DAG y definan cuáles son las variables que se tienen que controlar dentro del modelo. Posteriormente van a tener que realizar el modelo (que sería hacer una regresión lineal con las variables que decidieron utilizar) y explicar los resultados (P-Valor, R2 etc…)\n\nSe quiere evaluar la relación causal entre la variable dependiente ____ y la variable independiente  ____. Para ello, tras realizar una investigación se obtuvo la siguiente base de datos (link a base). El problema es que la base contiene variables que no resultan relevantes para el estudio. Para resolver ese problema se establecieron las relaciones entre todas las variables y con ello se realizó el siguiente DAG: (DAG)\n\nAnalizar el DAG e identificar a las variables cofounders y mediadores\n - ¿Cuántos caminos de causalidad abiertos identifica en este DAG? Grafíquelos\n - Identificar qué variables se deben incluir para evaluar la hipótesis decausalidad que se plantea. Justifique la decisión de cuál de ellas incluir y por qué. \n    - Limpiar las variables relevantes (Puede ser un Tp entero antes de este)\n    - Generar una variable que consideres que relevante y da una breve justificación de cómo está compuesta y porque la elegiste (no más de 4 renglones)(En un Tp separado pedirles que lo hagan)\n\nRealizar una regresión lineal utilizando las variables seleccionadas en el punto anterior\n    - Explicar los resultados. ¿Es significativa X [P-Valor]? El modelo en sí, ¿es bueno [R2]?, entre qué valores puede estar el beta de X [IC]\n    - Escriba un texto breve interpretando el modelo y los efectos de las variables incluidas. Si tiene que hacer algun calculo extra puede hacerlo\n    - Realizar el mismo modelo pero agregando su variable creada en el punto __. ¿Cúal es mejor? También puede agregar variables no utilizadas pero que considere relevantes. Escribalo, corralo e interprételo"
+  },
+  {
+    "objectID": "assignments/tp1.html#potential-outcomes",
+    "href": "assignments/tp1.html#potential-outcomes",
+    "title": "Trabajo Prácticos parte 1",
+    "section": "Potential Outcomes",
+    "text": "Potential Outcomes\nPresentarles la misma base de datos nuevamente o una nueva que incluya los potential outcomes verdaderos y otros resultados estén sesgados de alguna forma -Calcular el ATE datos reales -Estimar el ATE datos sesgados, ¿Es igual al otro?, de no serlo, analizar porqué podría estar pasando. Considerar las variables que utilizaste en el modelo y los gráficos que pueden llegar a ayudarte\nBack to Assignments"
   }
 ]
